@@ -1,0 +1,9 @@
+streamlit
+pandas
+psutil
+pytz
+speedtest-cli
+cryptography
+matplotlib
+scapy
+python-nmap
